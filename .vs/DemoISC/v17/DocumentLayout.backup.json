@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Demo\\C\\DemoISC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Demo\\C\\DemoISC\\DemoISC\\Migrations\\20250607024704_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DemoISC\\Migrations\\20250607024704_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657B6BE9-89DD-4C0E-A8BA-E3CA30EF9F14}|DemoISC\\DemoISC.csproj|f:\\demo\\c\\demoisc\\demoisc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657B6BE9-89DD-4C0E-A8BA-E3CA30EF9F14}|DemoISC\\DemoISC.csproj|solutionrelative:demoisc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657B6BE9-89DD-4C0E-A8BA-E3CA30EF9F14}|DemoISC\\DemoISC.csproj|f:\\demo\\c\\demoisc\\demoisc\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657B6BE9-89DD-4C0E-A8BA-E3CA30EF9F14}|DemoISC\\DemoISC.csproj|solutionrelative:demoisc\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657B6BE9-89DD-4C0E-A8BA-E3CA30EF9F14}|DemoISC\\DemoISC.csproj|f:\\demo\\c\\demoisc\\demoisc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{657B6BE9-89DD-4C0E-A8BA-E3CA30EF9F14}|DemoISC\\DemoISC.csproj|solutionrelative:demoisc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657B6BE9-89DD-4C0E-A8BA-E3CA30EF9F14}|DemoISC\\DemoISC.csproj|f:\\demo\\c\\demoisc\\demoisc\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657B6BE9-89DD-4C0E-A8BA-E3CA30EF9F14}|DemoISC\\DemoISC.csproj|solutionrelative:demoisc\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657B6BE9-89DD-4C0E-A8BA-E3CA30EF9F14}|DemoISC\\DemoISC.csproj|f:\\demo\\c\\demoisc\\demoisc\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657B6BE9-89DD-4C0E-A8BA-E3CA30EF9F14}|DemoISC\\DemoISC.csproj|solutionrelative:demoisc\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657B6BE9-89DD-4C0E-A8BA-E3CA30EF9F14}|DemoISC\\DemoISC.csproj|f:\\demo\\c\\demoisc\\demoisc\\interface\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657B6BE9-89DD-4C0E-A8BA-E3CA30EF9F14}|DemoISC\\DemoISC.csproj|solutionrelative:demoisc\\interface\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657B6BE9-89DD-4C0E-A8BA-E3CA30EF9F14}|DemoISC\\DemoISC.csproj|f:\\demo\\c\\demoisc\\demoisc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657B6BE9-89DD-4C0E-A8BA-E3CA30EF9F14}|DemoISC\\DemoISC.csproj|solutionrelative:demoisc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657B6BE9-89DD-4C0E-A8BA-E3CA30EF9F14}|DemoISC\\DemoISC.csproj|f:\\demo\\c\\demoisc\\demoisc\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657B6BE9-89DD-4C0E-A8BA-E3CA30EF9F14}|DemoISC\\DemoISC.csproj|solutionrelative:demoisc\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657B6BE9-89DD-4C0E-A8BA-E3CA30EF9F14}|DemoISC\\DemoISC.csproj|f:\\demo\\c\\demoisc\\demoisc\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657B6BE9-89DD-4C0E-A8BA-E3CA30EF9F14}|DemoISC\\DemoISC.csproj|solutionrelative:demoisc\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250607024704_InitialCreate.cs",
+              "DocumentMoniker": "F:\\Demo\\C\\DemoISC\\DemoISC\\Migrations\\20250607024704_InitialCreate.cs",
+              "RelativeDocumentMoniker": "DemoISC\\Migrations\\20250607024704_InitialCreate.cs",
+              "ToolTip": "F:\\Demo\\C\\DemoISC\\DemoISC\\Migrations\\20250607024704_InitialCreate.cs",
+              "RelativeToolTip": "DemoISC\\Migrations\\20250607024704_InitialCreate.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T02:47:04.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "F:\\Demo\\C\\DemoISC\\DemoISC\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "DemoISC\\Services\\StudentService.cs",
+              "ToolTip": "F:\\Demo\\C\\DemoISC\\DemoISC\\Services\\StudentService.cs",
+              "RelativeToolTip": "DemoISC\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T02:31:52.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "F:\\Demo\\C\\DemoISC\\DemoISC\\Interface\\IStudentService.cs",
+              "RelativeDocumentMoniker": "DemoISC\\Interface\\IStudentService.cs",
+              "ToolTip": "F:\\Demo\\C\\DemoISC\\DemoISC\\Interface\\IStudentService.cs",
+              "RelativeToolTip": "DemoISC\\Interface\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T02:31:11.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "F:\\Demo\\C\\DemoISC\\DemoISC\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "DemoISC\\Controllers\\StudentsController.cs",
+              "ToolTip": "F:\\Demo\\C\\DemoISC\\DemoISC\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "DemoISC\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T02:07:51.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Demo\\C\\DemoISC\\DemoISC\\appsettings.json",
+              "RelativeDocumentMoniker": "DemoISC\\appsettings.json",
+              "ToolTip": "F:\\Demo\\C\\DemoISC\\DemoISC\\appsettings.json",
+              "RelativeToolTip": "DemoISC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-07T02:05:34.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "F:\\Demo\\C\\DemoISC\\DemoISC\\Data\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "DemoISC\\Data\\SchoolContext.cs",
+              "ToolTip": "F:\\Demo\\C\\DemoISC\\DemoISC\\Data\\SchoolContext.cs",
+              "RelativeToolTip": "DemoISC\\Data\\SchoolContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T02:02:15.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Course.cs",
+              "DocumentMoniker": "F:\\Demo\\C\\DemoISC\\DemoISC\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "DemoISC\\Models\\Course.cs",
+              "ToolTip": "F:\\Demo\\C\\DemoISC\\DemoISC\\Models\\Course.cs",
+              "RelativeToolTip": "DemoISC\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T02:00:53.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "F:\\Demo\\C\\DemoISC\\DemoISC\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "DemoISC\\Models\\Enrollment.cs",
+              "ToolTip": "F:\\Demo\\C\\DemoISC\\DemoISC\\Models\\Enrollment.cs",
+              "RelativeToolTip": "DemoISC\\Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T02:00:39.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Demo\\C\\DemoISC\\DemoISC\\Program.cs",
+              "RelativeDocumentMoniker": "DemoISC\\Program.cs",
+              "ToolTip": "F:\\Demo\\C\\DemoISC\\DemoISC\\Program.cs",
+              "RelativeToolTip": "DemoISC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T01:59:44.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "F:\\Demo\\C\\DemoISC\\DemoISC\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "DemoISC\\Models\\Student.cs",
+              "ToolTip": "F:\\Demo\\C\\DemoISC\\DemoISC\\Models\\Student.cs",
+              "RelativeToolTip": "DemoISC\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T02:00:26.397Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

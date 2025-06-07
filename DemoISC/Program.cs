@@ -1,19 +1,23 @@
 using DemoISC.Data;
+using DemoISC.Interface;
+using DemoISC.Services;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
 
 var connectionString = builder.Configuration.GetConnectionString("SchoolContextConnection");
-var app = builder.Build();
 builder.Services.AddDbContext<SchoolContext>(options =>
     options.UseNpgsql(connectionString));
 
-// Configure the HTTP request pipeline.
+builder.Services.AddScoped<IStudentService, StudentService>();
+
+builder.Services.AddControllers(); 
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+
+var app = builder.Build();
+
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
@@ -22,3 +26,9 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+app.UseAuthorization(); 
+
+app.MapControllers(); 
+
+
+app.Run();
