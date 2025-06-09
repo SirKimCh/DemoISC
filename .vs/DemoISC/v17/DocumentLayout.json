@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "F:\\Demo\\C\\DemoISC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{657B6BE9-89DD-4C0E-A8BA-E3CA30EF9F14}|DemoISC\\DemoISC.csproj|f:\\demo\\c\\demoisc\\demoisc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657B6BE9-89DD-4C0E-A8BA-E3CA30EF9F14}|DemoISC\\DemoISC.csproj|solutionrelative:demoisc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{657B6BE9-89DD-4C0E-A8BA-E3CA30EF9F14}|DemoISC\\DemoISC.csproj|f:\\demo\\c\\demoisc\\demoisc\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{657B6BE9-89DD-4C0E-A8BA-E3CA30EF9F14}|DemoISC\\DemoISC.csproj|solutionrelative:demoisc\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,10 +35,6 @@
       "RelativeMoniker": "D:0:0:{657B6BE9-89DD-4C0E-A8BA-E3CA30EF9F14}|DemoISC\\DemoISC.csproj|solutionrelative:demoisc\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{657B6BE9-89DD-4C0E-A8BA-E3CA30EF9F14}|DemoISC\\DemoISC.csproj|f:\\demo\\c\\demoisc\\demoisc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{657B6BE9-89DD-4C0E-A8BA-E3CA30EF9F14}|DemoISC\\DemoISC.csproj|solutionrelative:demoisc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{657B6BE9-89DD-4C0E-A8BA-E3CA30EF9F14}|DemoISC\\DemoISC.csproj|f:\\demo\\c\\demoisc\\demoisc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{657B6BE9-89DD-4C0E-A8BA-E3CA30EF9F14}|DemoISC\\DemoISC.csproj|solutionrelative:demoisc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -50,11 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "StudentsController.cs",
               "DocumentMoniker": "F:\\Demo\\C\\DemoISC\\DemoISC\\Controllers\\StudentsController.cs",
               "RelativeDocumentMoniker": "DemoISC\\Controllers\\StudentsController.cs",
@@ -67,20 +67,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\Demo\\C\\DemoISC\\DemoISC\\Program.cs",
               "RelativeDocumentMoniker": "DemoISC\\Program.cs",
               "ToolTip": "F:\\Demo\\C\\DemoISC\\DemoISC\\Program.cs",
               "RelativeToolTip": "DemoISC\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-07T01:59:44.59Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "IStudentService.cs",
               "DocumentMoniker": "F:\\Demo\\C\\DemoISC\\DemoISC\\Interface\\IStudentService.cs",
               "RelativeDocumentMoniker": "DemoISC\\Interface\\IStudentService.cs",
@@ -93,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Student.cs",
               "DocumentMoniker": "F:\\Demo\\C\\DemoISC\\DemoISC\\Models\\Student.cs",
               "RelativeDocumentMoniker": "DemoISC\\Models\\Student.cs",
@@ -106,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "StudentService.cs",
               "DocumentMoniker": "F:\\Demo\\C\\DemoISC\\DemoISC\\Services\\StudentService.cs",
               "RelativeDocumentMoniker": "DemoISC\\Services\\StudentService.cs",
@@ -119,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Course.cs",
               "DocumentMoniker": "F:\\Demo\\C\\DemoISC\\DemoISC\\Models\\Course.cs",
               "RelativeDocumentMoniker": "DemoISC\\Models\\Course.cs",
@@ -132,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Enrollment.cs",
               "DocumentMoniker": "F:\\Demo\\C\\DemoISC\\DemoISC\\Models\\Enrollment.cs",
               "RelativeDocumentMoniker": "DemoISC\\Models\\Enrollment.cs",
@@ -145,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SchoolContext.cs",
               "DocumentMoniker": "F:\\Demo\\C\\DemoISC\\DemoISC\\Data\\SchoolContext.cs",
               "RelativeDocumentMoniker": "DemoISC\\Data\\SchoolContext.cs",
